@@ -4,7 +4,7 @@
 
   my tag will either be tooncra or mykull on anything
 
-![Mykulls's GitHub stats](https://github-readme-stats.vercel.app/api?username=tooncra123&theme=onedark&show_icons=true)
+![Mykulls's GitHub stats](https://github-readme-stats.vercel.app/api?username=tooncra123&theme=onedark&show_icons=true) ![Mykull's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tooncra123&theme=onedark&show_icons=true&layout=donut) 
   
 
 
