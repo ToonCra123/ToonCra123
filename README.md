@@ -1,4 +1,13 @@
-## Hi there 👋
+## MICHAEL GUILLORY
+
+- 🌱 I’m currently learning graphics with directx
+
+  my tag will either be tooncra or mykull on anything
+
+![Mykulls's GitHub stats](https://github-readme-stats.vercel.app/api?username=tooncra123&theme=onedark&show_icons=true)
+  
+
+
 
 <!--
 **ToonCra123/ToonCra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
