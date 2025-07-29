@@ -1,6 +1,6 @@
 ## MICHAEL GUILLORY
 
-- 🌱 I’m currently learning graphics with directx
+- 🌱 I’m currently learning graphics with opengl
 
   my tag will either be tooncra or mykull on anything
 
